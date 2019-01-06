@@ -1,2 +1,3 @@
 // Code your solution in this file!
-const companyName = 'specialCompany'
+const companyName = 'specialCompany';
+
